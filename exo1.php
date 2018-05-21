@@ -1,0 +1,3 @@
+<?php
+echo utf8_encode("Ceci est une ligne créée uniquement en PHP");
+?>
